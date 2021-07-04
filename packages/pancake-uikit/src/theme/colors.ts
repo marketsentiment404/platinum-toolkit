@@ -21,7 +21,7 @@ export const lightColors: Colors = {
   background: "#F4F4F9",
   backgroundDisabled: "#E8E9EB",
   backgroundAlt: "#FFFFFF",
-  cardBorder: "#F4F4F9",
+  cardBorder: "#E9EAEB",
   contrast: "#191325",
   dropdown: "#F4F4F9",
   dropdownDeep: "#E2E6ED",
