@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.1.8 (2021-08-01)
+
+**Note:** Version bump only for package @edenfarm/uikit
+
+
+
+
+
 # [0.40.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.39.4...@pancakeswap/uikit@0.40.0) (2021-07-01)
 
 
